@@ -1,0 +1,9 @@
+body {
+	background-image: url(tiger.jpeg);
+	background-size: cover;
+	color: white;
+}
+
+.toppage {
+	border: 5px solid white;
+}
